@@ -1,7 +1,7 @@
 {
   "name": "expo-router-nativewind-template",
   "description": "An Expo Route template with NativeWind styling (for Native & Web)",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Kim Chouard",
   "main": "expo-router/entry",
   "scripts": {
